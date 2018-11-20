@@ -1,0 +1,23 @@
+{
+  "id": "e5578266-99dc-4a71-96b2-36a7a81c51ef",
+  "name": "SD-Seminar",
+  "publisher": "HM JENSEN",
+  "brief": "",
+  "description": "OP",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
