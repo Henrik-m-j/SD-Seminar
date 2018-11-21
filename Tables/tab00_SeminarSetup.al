@@ -34,4 +34,5 @@ table 50100 "CSD Seminar Setup"
             Clustered = true;
         }
     }
+
 }
