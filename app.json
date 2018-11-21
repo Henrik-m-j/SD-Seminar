@@ -4,7 +4,7 @@
   "publisher": "HM JENSEN",
   "brief": "Captor - 5",
   "description": "OP - In Captor 5",
-  "version": "1.0.5.0",
+  "version": "1.0.0.6",
   "privacyStatement": "",
   "EULA": "",
   "help": "",
@@ -16,6 +16,7 @@
   "platform": "13.0.0.0",
   "application": "13.0.0.0",
   "features": ["TranslationFile"],
+  "target": "Internal",
   "idRange": {
     "from": 50100,
     "to": 50149
