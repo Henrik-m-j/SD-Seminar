@@ -12,15 +12,15 @@ page 50106 "CSD Seminar Comment Sheet"
         {
             repeater(Group)
             {
-                field(Date; Date)
+                field(Date;Date)
                 {
                 }
-                field(Code; Code)
+                field(Code;Code)
                 {
-                    Visible = false;
+                    Visible=false;
                 }
-                field(Comment; Comment)
-                {
+                field(Comment;Comment)
+                {    
                 }
             }
         }
